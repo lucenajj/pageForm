@@ -1,0 +1,48 @@
+body{
+    background-image: url("./image/fundo_site.jpg");
+}
+.container_main {
+    width: 500px;
+    height: 630px;
+    background-color: #756555;
+    align-content: center;
+    margin: auto;
+    margin-top: 150px;
+    border-radius: 10px;
+}
+.text_form{
+    margin-left: 150px;
+    padding-top: 10px;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #fff;
+}
+.form_main{
+    margin-left: 60px;
+    padding-top: 15px;
+   
+}
+
+.input_main{
+    font-size: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    border-radius: 5px;
+}
+.btn_submit{
+    font-size: 30px;
+    margin-left: 130px;
+    margin-top: 15px;
+    border-radius: 10px;
+    border: 2px solid #333;
+}
+.btn_submit{
+    background-color: #c2c2ee;
+}
+
+.text_area{
+    width: 374px;
+    border-radius: 5px;
+}
+
+
